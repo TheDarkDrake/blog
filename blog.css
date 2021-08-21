@@ -24,6 +24,10 @@ p {
     padding: 0;
     margin: 0;
 }
+a:hover {
+        color: #d516f2;
+        text-shadow: 4px 4px 3px 
+}
 .img-circle {
     border: 3px solid white;
     border-radius: 50%;
