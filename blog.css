@@ -6,6 +6,7 @@ body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
     background-image: url("background.jpg");
+    background-color: #efefef;
     padding: 10px;
     margin: 0;
 }
